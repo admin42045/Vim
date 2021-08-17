@@ -1,0 +1,26 @@
+Note :-> [x , . , ..]
+Line one 
+Line two
+Line three
+Line four
+
+
+Note :-> [dd , . ]
+Line one 
+Line two
+Line three
+Line four
+
+
+
+
+Note :-> [ >G , j , . j. ]
+Line one 
+Line two
+Line three
+Line four
+
+
+
+
+

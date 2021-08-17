@@ -1,0 +1,76 @@
+//Playing Melodies
+x Press the x once
+dw In sequence, press d. then w
+dap In sequence, press d, a, then p
+
+// Playing Chords
+<C-n> Press the <Ctrl> and n at the same time
+g<C-]> Press the g. followed by<Ctrl> and ] at the same time
+<C-r>0  Press <Ctrl> and r at the same time , then 0
+<C-w><C -=> Press <Ctrl> and w at the same time, then <ctrl> and = at the same time
+
+
+
+//Placeholders
+f{char}  Press  f. followed by any other character
+`{a-z}   Press  `. followed by any other character
+m{a-z}  Press ` followed by any other character
+m{a-zA-Z} Press  m. followed by any other character
+d{motion}  Press  d. followed by any other character
+<C-r{reginster}  Press  <Ctrl>.  and r followed by any other character
+
+
+
+//Showing Special keys
+<ESC> Press the escape key
+<CR> press the carriage return key(also known as <Enter>)
+<Ctrl> Press the contol key
+<Tab> Press the tab key
+<Shift> Press the shift key
+<S-Tab> Press the <Shift> and <Tab> keys at the same time
+<Up>  Press the up bar
+<Down> Press the down bar
+<'..'>  Press the space bar
+
+
+//Swithing Modes Midcommand
+
+
+// Interacting with the command Line
+$ grep -n Waldo *
+ :grep Waldo *
+
+ $  Enter the command line in an external shell
+ : use command line mode to exute and Ex command
+ / use command line mode to perform a forward search
+ ? use command line mode to perform a backword search
+ = use command line mode to evaluate a vim script expression
+
+
+
+
+// Showing the Cursor position in a Buffer
+
+
+// Highlighting Serach Matches
+
+
+
+//Selecting text in Visual mode
+
+
+// Use vim's factory settings
+
+
+// On the role of the vim script
+$ vim -u NONE -N
+$ set nocompatible
+  filetype plugin on
+
+$ vim -u code/essential.vim
+
+
+
+
+//On Vim Versions
+$ :version

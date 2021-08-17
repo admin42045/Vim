@@ -1,0 +1,18 @@
+// Don't repeat yourself
+
+Note :-> [start, A;<ESC> , j , . , j ]
+
+var foo = 1;
+var bar = 'a';
+var foobar = foot + bar;
+
+
+
+var numberVariable = 112;
+var stringVariable = 'Stirng variable';
+var restultSum = numberVariable + stringVariable;
+
+
+
+
+
