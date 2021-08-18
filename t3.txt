@@ -1,0 +1,24 @@
+//Take one step Back, Then Three Forward
+Note:-> start , f+ , s_+_<ESC> , ; , . , ;. , ;.
+
+var foo = "method(" + argmunet1 + "," + argument2 + ")";
+
+var foo = "method(" + argmunet1 + "," + argument2 + ")";
+
+var foo = "method(" + argmunet1 + "," + argument2 + ")";
+
+var foo = "method(" + argmunet1 + "," + argument2 + ")";
+
+var foo = "method(" + argmunet1 + "," + argument2 + ")";
+
+var foo = "method(" + argmunet1 + "," + argument2 + ")";
+
+var foo = "method(" + argmunet1 + "," + argument2 + ")";
+
+var foo = "method(" + argmunet1 + "," + argument2 + ")";
+
+var foo = "method(" + argmunet1 + "," + argument2 + ")";
+
+var foo = "method(" + argument1 + "," + argument2 + ");
+
+
